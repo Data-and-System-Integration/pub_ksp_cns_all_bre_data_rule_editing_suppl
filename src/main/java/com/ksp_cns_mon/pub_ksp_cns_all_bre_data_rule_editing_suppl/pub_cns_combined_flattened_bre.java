@@ -1,4 +1,4 @@
-package com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1;
+package com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl;
 
 import java.math.*;
 import java.lang.Object.*;
@@ -1866,10 +1866,10 @@ private java.util.Date data_mail_date = new Date();
 		private java.lang.String data_cns_date_values_0;
 		private java.lang.Long panelist_user_defined_fields_count;
 		private java.lang.Long data_user_defined_fields_count;
-		private java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.data_bus_dim> data_bus_dim;
-		private java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.panelist_bus_dim> panelist_bus_dim;
-		private java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.data_user_defined_multi> data_user_defined_multi;
-		private java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.panelist_user_defined_multi> panelist_user_defined_multi;
+		private java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.data_bus_dim> data_bus_dim;
+		private java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.panelist_bus_dim> panelist_bus_dim;
+		private java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.data_user_defined_multi> data_user_defined_multi;
+		private java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.panelist_user_defined_multi> panelist_user_defined_multi;
 		private java.util.List<java.util.List<java.lang.String>> listOfStringLists = new java.util.ArrayList<java.util.List<java.lang.String>>();
 		private java.util.List<java.util.List<java.math.BigDecimal>> listOfBigDecimalLists = new java.util.ArrayList<java.util.List<java.math.BigDecimal>>();
 
@@ -13433,43 +13433,43 @@ private java.util.Date data_mail_date = new Date();
 			this.data_user_defined_fields_count = data_user_defined_fields_count;
 		}
 		
-		public java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.data_bus_dim> getData_bus_dim()
+		public java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.data_bus_dim> getData_bus_dim()
 			{
 				return this.data_bus_dim;
 			}
 
-			public void setData_bus_dim(java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.data_bus_dim> data_bus_dim)
+			public void setData_bus_dim(java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.data_bus_dim> data_bus_dim)
 			{
 				 this.data_bus_dim = data_bus_dim;
 			}
 
-		public java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.panelist_bus_dim> getPanelist_bus_dim()
+		public java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.panelist_bus_dim> getPanelist_bus_dim()
 			{
 				return this.panelist_bus_dim;
 			}
 
-			public void setPanelist_bus_dim(java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.panelist_bus_dim> panelist_bus_dim)
+			public void setPanelist_bus_dim(java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.panelist_bus_dim> panelist_bus_dim)
 			{
 				 this.panelist_bus_dim = panelist_bus_dim;
 			}
 			
-		public java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.data_user_defined_multi> getData_user_defined_multi()
+		public java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.data_user_defined_multi> getData_user_defined_multi()
 			{
 				return this.data_user_defined_multi;
 			}
 
-			public void setData_user_defined_multi(java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.data_user_defined_multi> data_user_defined_multi)
+			public void setData_user_defined_multi(java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.data_user_defined_multi> data_user_defined_multi)
 			{
 				 this.data_user_defined_multi = data_user_defined_multi;
 			}
 			
 
-		public java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.panelist_user_defined_multi> getPanelist_user_defined_multi()
+		public java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.panelist_user_defined_multi> getPanelist_user_defined_multi()
 			{
 				return this.panelist_user_defined_multi;
 			}
 
-			public void setPanelist_user_defined_multi(java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl_1.panelist_user_defined_multi> panelist_user_defined_multi)
+			public void setPanelist_user_defined_multi(java.util.List<com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl.panelist_user_defined_multi> panelist_user_defined_multi)
 			{
 				 this.panelist_user_defined_multi = panelist_user_defined_multi;
 			}
