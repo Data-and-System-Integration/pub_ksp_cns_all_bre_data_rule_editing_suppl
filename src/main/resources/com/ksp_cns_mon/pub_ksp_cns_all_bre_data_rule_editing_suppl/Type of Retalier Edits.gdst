@@ -44,7 +44,7 @@
       <conditions>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>100</width>
+          <width>419</width>
           <header>Channel : data_channel_dim__level_1 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>data_channel_dim__level_1</factField>
@@ -61,7 +61,7 @@
   <actionCols>
     <set-field-col52>
       <hideColumn>false</hideColumn>
-      <width>100</width>
+      <width>195</width>
       <header>Outlettype : Data_npd_attr_15</header>
       <boundName>data</boundName>
       <factField>data_npd_attr_15</factField>
@@ -116,7 +116,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric class="int">1</valueNumeric>
+        <valueNumeric class="int">201</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
