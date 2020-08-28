@@ -74,7 +74,7 @@
         </condition-column52>
         <condition-column52>
           <hideColumn>false</hideColumn>
-          <width>219</width>
+          <width>311</width>
           <header>Primarysport : data_npd_attr_11 in</header>
           <constraintValueType>1</constraintValueType>
           <factField>data_npd_attr_11</factField>
@@ -237,7 +237,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247000629 , 1247000619</valueString>
+        <valueString></valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -287,7 +287,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString></valueString>
+        <valueString>1247000589,1247000590,1247000591,1247000592,1247000593</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
