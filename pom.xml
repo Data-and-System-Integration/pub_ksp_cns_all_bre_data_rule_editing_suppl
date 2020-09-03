@@ -45,11 +45,6 @@
       <version>7.27.0.Final</version>
       <scope>provided</scope>
     </dependency>
-    <dependency>
-      <groupId>jbpm_refresh_alphas</groupId>
-      <artifactId>jbpm_refresh_alphas</artifactId>
-      <version>1001</version>
-    </dependency>
   </dependencies>
   <build>
     <plugins>
