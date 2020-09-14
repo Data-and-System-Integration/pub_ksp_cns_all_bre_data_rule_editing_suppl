@@ -53,7 +53,7 @@
     <dependency>
       <groupId>jbpm_refresh_alphas</groupId>
       <artifactId>jbpm_refresh_alphas</artifactId>
-      <version>1001</version>
+      <version>1003</version>
     </dependency>
   </dependencies>
   <build>
