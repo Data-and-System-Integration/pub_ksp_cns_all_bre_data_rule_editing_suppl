@@ -48,6 +48,7 @@
           <header>Channel : data_channel_dim__level_1 equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>data_channel_dim__level_1</factField>
+          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -135,8 +136,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1247000223</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>1247000231</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
