@@ -165,7 +165,6 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1247000223</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
