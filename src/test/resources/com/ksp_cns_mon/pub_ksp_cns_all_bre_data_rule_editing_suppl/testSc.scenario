@@ -21,19 +21,11 @@
       <isModify>false</isModify>
     </fact-data>
     <execution-trace>
-      <executionTimeResult>72</executionTimeResult>
+      <executionTimeResult>54</executionTimeResult>
       <numberOfRulesFired>2</numberOfRulesFired>
     </execution-trace>
     <expect-fact>
       <fieldValues>
-        <expect-field>
-          <fieldName>data_npd_attr_15</fieldName>
-          <expected>1247000231</expected>
-          <successResult>true</successResult>
-          <explanation>[pub_cns_combined_flattened_bre] field [data_npd_attr_15] was [1247000231].</explanation>
-          <operator>==</operator>
-          <nature>1</nature>
-        </expect-field>
         <expect-field>
           <fieldName>data_bre_version</fieldName>
           <expected>123456</expected>
@@ -47,7 +39,7 @@
       <anonymous>true</anonymous>
     </expect-fact>
   </fixtures>
-  <lastRunResult>2020-09-22 08:07:44.502 UTC</lastRunResult>
+  <lastRunResult>2020-09-22 08:16:01.794 UTC</lastRunResult>
   <rules/>
   <inclusive>false</inclusive>
   <packageName>com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl</packageName>
