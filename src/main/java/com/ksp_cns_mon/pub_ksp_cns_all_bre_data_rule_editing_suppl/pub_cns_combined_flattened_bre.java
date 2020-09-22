@@ -1,4 +1,4 @@
-package com.data_object.data_object;
+package com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl;
 
 import java.math.*;
 import java.lang.Object.*;
