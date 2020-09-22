@@ -3,7 +3,42 @@
   <maxRuleFirings>100000</maxRuleFirings>
   <globals/>
   <fixtures>
+    <fact-data>
+      <type>pub_cns_combined_flattened_bre</type>
+      <fieldData>
+        <field-data>
+          <name>data_channel_dim__level_1</name>
+          <value>0</value>
+          <nature>4</nature>
+        </field-data>
+        <field-data>
+          <name>data_outlet</name>
+          <value>0</value>
+          <nature>4</nature>
+        </field-data>
+      </fieldData>
+      <name>t9</name>
+      <isModify>false</isModify>
+    </fact-data>
     <execution-trace/>
+    <expect-fact>
+      <fieldValues>
+        <expect-field>
+          <fieldName>data_npd_attr_15</fieldName>
+          <expected>0</expected>
+          <operator>==</operator>
+          <nature>1</nature>
+        </expect-field>
+        <expect-field>
+          <fieldName>data_bre_version</fieldName>
+          <expected>1234</expected>
+          <operator>==</operator>
+          <nature>0</nature>
+        </expect-field>
+      </fieldValues>
+      <name>pub_cns_combined_flattened_bre</name>
+      <anonymous>true</anonymous>
+    </expect-fact>
   </fixtures>
   <rules/>
   <inclusive>false</inclusive>
