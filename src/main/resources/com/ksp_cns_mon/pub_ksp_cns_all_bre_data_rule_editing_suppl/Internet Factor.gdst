@@ -107,11 +107,7 @@
     <entries/>
   </auditLog>
   <imports>
-    <imports>
-      <org.kie.soup.project.datamodel.imports.Import>
-        <type>java.math.BigDecimal</type>
-      </org.kie.soup.project.datamodel.imports.Import>
-    </imports>
+    <imports/>
   </imports>
   <packageName>com.ksp_cns_mon.pub_ksp_cns_all_bre_data_rule_editing_suppl</packageName>
   <tableFormat>EXTENDED_ENTRY</tableFormat>
